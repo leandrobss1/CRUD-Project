@@ -18,8 +18,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static('public'));
 
 let items = [
-	{ id: 1, title: 'Comprar Caderno' },
-	{ id: 2, title: 'Empacotar Caixas' },
+	{ id: 1, title: 'Buy Milk' },
+	{ id: 2, title: 'Finish homework' },
 ];
 
 app.get('/', (req, res) => {
