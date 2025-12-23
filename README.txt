@@ -1,23 +1,42 @@
-📌 CRUD com Node.js, Express e SQL
+📑 CRUD Project
 
--------------------------------------------
+Aplicação web CRUD desenvolvida com Node.js, Express e PostgreSQL, simulando um sistema básico de gestão com operações completas de criação, leitura, atualização e exclusão de dados.
 
-🚀 Funcionalidades
+Este projeto foi criado com foco em aprendizado prático de desenvolvimento backend e organização de aplicações web.
 
-Criar novos registros no banco de dados
+---
 
-Listar todos os registros disponíveis
+🛠 Tecnologias Utilizadas
 
-Atualizar informações existentes
+- Node.js
+- Express
+- PostgreSQL
+- EJS
+- HTML5
+- CSS3
 
-Excluir registros de forma segura
+---
 
--------------------------------------------
+⚙ Funcionalidades
 
-🛠️ Tecnologias utilizadas
+- Criar registros
+- Listar registros
+- Atualizar registros
+- Excluir registros
+- Interface renderizada com EJS
+- Persistência de dados em banco relacional
 
-Node.js
+---
 
-Express.js
+🚀 Como executar o projeto localmente
 
-SQL (PostgreSQL)
+ Pré-requisitos
+- Node.js instalado
+- PostgreSQL instalado
+- Git
+
+ Passo a passo
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/leandrobss1/CRUD-Project.git
